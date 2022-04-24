@@ -32,8 +32,6 @@ Write code that passes all of the requirements outlined below, and submit your G
 Requirements to pass
 For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
 
-All tests are passing in Qualified.
-
 For the Caesar shift (example: caesar("Zebra Magazine", 3) => "cheud pdjdclqh"), the tests that you write should test that the following is true:
 
 It returns false if the shift value is equal to 0, less than -25, greater than 25, or not present.
