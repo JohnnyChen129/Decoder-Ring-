@@ -63,3 +63,5 @@ It returns false if there are any duplicate characters in the given alphabet.
 It maintains spaces in the message, before and after encoding or decoding.
 
 It ignores capital letters. (For example, the results of A Message and a message should be the same.)
+
+all tests passing.
